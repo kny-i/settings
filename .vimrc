@@ -1,6 +1,4 @@
-set set number
-
-
+set number
 set ruler
 syntax enable
 set cursorline
