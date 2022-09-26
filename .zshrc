@@ -19,9 +19,8 @@ alias mc='make clean'
 alias mf='make fclean'
 alias mr='make re'
 alias viz='vim ~/settings/.zshrc'
-alias giv='ga ~/.vimrc && git commit ~/.vimrc -m "edit vimrcr" && gp'
+alias giv='ga ~/settings/.vimrc && git commit ~/settings/.vimrc -m "edit vimrcr" && gp'
 alias soz='source ~/settings/.zshrc && ga ~/settings/.zshrc && git commit ~/settings/.zshrc -m "edit zshrc" && gp'
-alias sov='source ~/.zshrc && ga ~/.zshrc && git commit ~/.zshrc -m "edit zshrc" && gp'
 alias viv='vim ~/.vimrc'
 alias cz='clion ~/settings/.zshrc'
 alias sov='source ~/settings/.vimrc'
@@ -43,3 +42,4 @@ gc ()
     git add -A
     git commit -m "$*"
 }
+alias cpy='pbcopy'  
