@@ -6,7 +6,7 @@ set autoindent
 
 inoremap jk <ESC>
 inoremap { {}<ESC>i<CR><ESC><S-o>
-noremap ( ()<LEFT>
+inoremap ( ()<LEFT>
 inoremap [ []<LEFT>
 inoremap ' ''<LEFT>
 inoremap " ""<LEFT>
