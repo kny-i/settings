@@ -1,5 +1,4 @@
 alias norm=norminette
-alias .='cd ./' 
 alias ..='cd ../' 
 alias ...='cd .../'  
 alias ga='git add'
