@@ -3,9 +3,11 @@ set ruler
 syntax on
 set cursorline
 set autoindent
+set smartindent
 
 inoremap jk <ESC>
-inoremap { {}<ESC>i<CR><ESC><S-o><TAB>
+inoremap { {}<ESC>i<CR><ESC><S-o>
+
 inoremap ( ()<LEFT>
 inoremap [ []<LEFT>
 inoremap ' ''<LEFT>
