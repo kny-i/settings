@@ -45,3 +45,4 @@ gc ()
     git commit -m "$*"
 }
 alias cpy='pbcopy'  
+alias exam='cd ~/Desktop/42_Exam'
