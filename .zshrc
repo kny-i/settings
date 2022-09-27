@@ -1,7 +1,7 @@
 alias norm=norminette
-alias .='./' 
-alias ..='../' 
-alias ...='.../'  
+alias .='cd ./' 
+alias ..='cd ../' 
+alias ...='cd .../'  
 alias ga='git add'
 alias gb='git branch'
 alias gcm='git commit -m'
