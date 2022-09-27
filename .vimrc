@@ -5,7 +5,7 @@ set cursorline
 set autoindent
 
 inoremap jk <ESC>
-inoremap { {}<ESC>i<CR><ESC><S-o>
+inoremap { {}<ESC>i<CR><ESC><S-o><TAB>
 inoremap ( ()<LEFT>
 inoremap [ []<LEFT>
 inoremap ' ''<LEFT>
