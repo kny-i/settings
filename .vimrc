@@ -6,9 +6,9 @@ set cursorline
 inoremap jk <ESC>
 inoremap { {}<ESC>i<CR><ESC><S-o>
 noremap ( ()<LEFT>
-inoremap [ [] <LEFT>
-inoremap ' '' <LEFT>
-inoremap " "" <LEFT>
+inoremap [ []<LEFT>
+inoremap ' ''<LEFT>
+inoremap " ""<LEFT>
 inoremap <C-j> <Down>
 inoremap <C-k> <Up>
 inoremap <C-f> <Right>
