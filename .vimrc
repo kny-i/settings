@@ -2,8 +2,7 @@ set number
 set ruler
 syntax on
 set cursorline
-set autoindent
-set smartindent
+set cindent
 
 inoremap jk <ESC>
 inoremap { {}<ESC>i<CR><ESC><S-o>
