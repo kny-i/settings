@@ -13,7 +13,7 @@ inoremap ' ''<LEFT>
 inoremap " ""<LEFT>
 inoremap <C-j> <Down>
 inoremap <C-k> <Up>
-inoremap <C-f> <Right>
+inoremap <C-l> <Right>
 inoremap <C-b> <Left>
   
 nnoremap <CR> o<ESC>
