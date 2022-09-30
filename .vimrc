@@ -3,7 +3,7 @@ set ruler
 syntax on
 set cursorline
 set cindent
-
+syntax enable
 inoremap jk <ESC>
 inoremap { {}<ESC>i<CR><ESC><S-o>
 
