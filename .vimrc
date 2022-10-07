@@ -11,8 +11,8 @@ inoremap ( ()<LEFT>
 inoremap [ []<LEFT>
 inoremap ' ''<LEFT>
 inoremap " ""<LEFT>
-inoremap <C-j> <Down>
-inoremap <C-k> <Up>
+inoremap <C-n> <Down>
+inoremap <C-p> <Up>
 inoremap <C-f> <Right>
 inoremap <C-b> <Left>
   
