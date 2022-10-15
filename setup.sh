@@ -4,3 +4,4 @@
 echo ---begin----
 ln -sf ~/settings/.vimrc ~/.vimrc
 ln -sf ~/settings/.zshrc ~/.zshrc
+source ~/.zshrv
