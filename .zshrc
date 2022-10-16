@@ -35,7 +35,7 @@ alias review='cd ~/Desktop/42Tokyo/review'
 alias gal='gcue && ga -A && gs && gcm "wip" && gp'
 alias 42='cd ~/Desktop/42Tokyo'
 alias clion='open -na "Clion.app" --args "$@"'
-
+alias cw='cc -Wall -Werror -Wextra'
 alias c='clion'
 alias o='open'
 alias v='vim'
