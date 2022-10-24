@@ -18,4 +18,3 @@ inoremap <C-b> <Left>
   
 nnoremap <CR> o<ESC>
 nnoremap sov :source ~/settings/.vimrc
-
