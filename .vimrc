@@ -17,6 +17,6 @@ inoremap <C-f> <Right>
 inoremap <C-b> <Left>
 inoremap <C-e> <ESC>A
 inoremap <C-a> <ESC>I
-  
+inoremap <C-c> <C-P>  
 nnoremap <CR> o<ESC>
 nnoremap sov :source ~/settings/.vimrc
