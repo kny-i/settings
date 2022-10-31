@@ -47,4 +47,4 @@ gc ()
 }
 alias cpy='pbcopy'  
 alias exam='cd ~/Desktop/exam'
-alias inc='cd ~/Desktop/inception'
+alias inc='cd ~/Desktop/Inception'
