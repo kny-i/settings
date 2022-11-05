@@ -54,7 +54,4 @@ alias inc='cd ~/Desktop/Inception'
 
 
 source /usr/local/share/zsh-history-substring-search/zsh-history-substring-search.zsh
-source /usr/local/share/zsh-history-substring-search/zsh-history-substring-search.zsh
-source /usr/local/share/zsh-history-substring-search/zsh-history-substring-search.zsh
-source /Users/yukikondo/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /Users/yukikondo/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
