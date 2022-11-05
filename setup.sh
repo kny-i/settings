@@ -2,14 +2,15 @@
 
 #creat symbolic link on vimrc and zshrc
 echo ----begin----
+
+
 ln -sf ~/settings/.vimrc ~/.vimrc
 ln -sf ~/settings/.zshrc ~/.zshrc
 
 mkdir -p ~/.vim/pack/themes/start
+mkdir clones
 
-cd ~/.vim/pack/themes/start
-git clone https://github.com/dracula/vim.git dracula
-
+git clone https://github.com/dracula/vim.git ~/.vim/pack/themes/start/dracula
 
 
 source ~/settings/.zshrc
