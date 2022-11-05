@@ -1,4 +1,6 @@
 set number
+
+
 set ruler
 syntax on
 set cursorline
@@ -23,3 +25,8 @@ inoremap <C-a> <ESC>I
 inoremap <C-l> <C-p>  
 nnoremap <CR> o<ESC>
 nnoremap sov :source ~/settings/.vimrc
+
+
+packadd! dracula
+syntax enable
+colorscheme dracula

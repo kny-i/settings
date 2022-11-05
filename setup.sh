@@ -11,5 +11,5 @@ cd ~/.vim/pack/themes/start
 git clone https://github.com/dracula/vim.git dracula
 
 
-source ~/.zshrv
+source ~/.zshr
 
