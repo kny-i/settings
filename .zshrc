@@ -57,3 +57,5 @@ source /usr/local/share/zsh-history-substring-search/zsh-history-substring-searc
 source /Users/yukikondo/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+ZSH_THEME="powerlevel10k/powerlevel10k"
+
