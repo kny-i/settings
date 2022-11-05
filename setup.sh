@@ -11,6 +11,8 @@ mkdir -p ~/.vim/pack/themes/start
 mkdir clones
 
 git clone https://github.com/dracula/vim.git ~/.vim/pack/themes/start/dracula
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+
 
 
 source ~/settings/.zshrc
