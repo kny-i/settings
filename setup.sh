@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #creat symbolic link on vimrc and zshrc
-echo ---begin----
+echo ----begin----
 ln -sf ~/settings/.vimrc ~/.vimrc
 ln -sf ~/settings/.zshrc ~/.zshrc
 
@@ -12,3 +12,4 @@ git clone https://github.com/dracula/vim.git dracula
 
 
 source ~/settings/.zshrc
+echo ----end----
