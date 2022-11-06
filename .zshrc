@@ -52,5 +52,4 @@ alias inc='cd ~/Desktop/Inception'
 
 
 
-
-source /Users/yukikondo/settings/clones/zsh/dracula/zsh.git/dracula.zsh-theme
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
