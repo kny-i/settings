@@ -1,15 +1,13 @@
 set number
 
+syntax on
 
 set ruler
-syntax on
 set cursorline
 set cindent
-syntax enable
-
-inoremap jk <ESC>
 inoremap { {}<ESC>i<CR><ESC><S-o>
 
+inoremap jk <ESC>
 inoremap ( ()<LEFT>
 inoremap [ []<LEFT>
 inoremap ' ''<LEFT>
@@ -27,6 +25,6 @@ nnoremap <CR> o<ESC>
 nnoremap sov :source ~/settings/.vimrc
 
 
+
 packadd! dracula
-syntax enable
 colorscheme dracula
