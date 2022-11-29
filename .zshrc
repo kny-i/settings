@@ -50,6 +50,6 @@ alias exam='cd ~/Desktop/exam'
 alias inc='cd ~/Desktop/Inception'
 
 
-PROMPT='%F{118}Yuki%f in %F{154}%~%f -> '
+PROMPT='%F{082}Yuki%f in %F{087}%~%f -> '
 
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
