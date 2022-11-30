@@ -50,6 +50,6 @@ alias exam='cd ~/Desktop/exam'
 alias inc='cd ~/Desktop/Inception'
 
 
-PROMPT='%F{082}hoge -> '
+PROMPT='%F{082}minishell -> '
 
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
