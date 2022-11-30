@@ -6,6 +6,8 @@ alias gb='git branch'
 alias gcm='git commit -m'
 alias gcl='git clone'
 alias gch='git checkout'
+
+
 alias gd='git diff'
 alias gi='git init'
 alias gr='git remote'
@@ -49,6 +51,6 @@ alias cpy='pbcopy'
 alias exam='cd ~/Desktop/exam'
 alias inc='cd ~/Desktop/Inception'
 
- PROMPT='%F{087}koyuki%f in %F{084}%~%f -> '
+ PROMPT='%F{087}(｀▽´)%f in %F{084}%~%f -> '
 
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
