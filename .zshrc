@@ -51,6 +51,6 @@ alias cpy='pbcopy'
 alias exam='cd ~/Desktop/exam'
 alias inc='cd ~/Desktop/Inception'
 
- PROMPT='%F{087}(｀▽´)%f in %F{084}%~%f -> '
+ PROMPT='%F{087}(｀▽´)%~%f -> '
 
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
