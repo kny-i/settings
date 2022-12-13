@@ -50,7 +50,8 @@ gc ()
 alias cpy='pbcopy'  
 alias exam='cd ~/Desktop/exam'
 alias inc='cd ~/Desktop/Inception'
-alias irc='cd ~/Desktop/irc'
+alias ircp='cd ~/Desktop/irc_pair'
+alias ircm='cd ~/Desktop/irc_mine'
  PROMPT='%F{087}(｀▽´)%f '
 
 
