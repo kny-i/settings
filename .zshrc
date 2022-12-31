@@ -53,10 +53,7 @@ gc ()
 }
 alias cpy='pbcopy'  
 alias exam='cd ~/Desktop/exam'
-alias inc='cd ~/Desktop/Inception'
-alias ircp='cd ~/Desktop/irc_pair'
-alias ircm='cd ~/Desktop/irc_mine'
- PROMPT='%F{087}(｀▽´)%f '
+PROMPT='%F{087}(｀▽´)%f '
 
 
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
