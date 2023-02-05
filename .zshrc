@@ -28,6 +28,7 @@ alias giv='cd ~/settings && gc "edit vimrcr" && gp'
 alias soz='source ~/settings/.zshrc && cd ~/settings && gc "edit zshrc" && gp'
 alias viv='vim ~/.vimrc'
 alias cz='clion ~/settings/.zshrc'
+
 alias sov='source ~/settings/.vimrc'
 alias gcue='git config user.email kny_i@keio.jp && git config user.name kny-i'
 alias go='/usr/local/go/bin/go'
@@ -41,8 +42,10 @@ alias gald='gcue && ga -A && gs && gcm "delete funcs"'
 alias gale='gcue && ga -A && gs && gcm "edit funcs"'
 alias 42='cd ~/Desktop/42Tokyo'
 alias clion='open -na "Clion.app" --args "$@"'
+alias webstorm='open -na "Webstorm.app" --args "$@"'
 alias cw='cc -Wall -Werror -Wextra'
 alias c='clion'
+alias w='webstorm'
 alias o='open'
 alias v='vim'
 gc ()
@@ -54,6 +57,6 @@ gc ()
 alias cpy='pbcopy'  
 alias exam='cd ~/Desktop/exam'
 PROMPT='%F{087}(｀▽´)%f '
-
+alias g++='g++-11'
 
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
