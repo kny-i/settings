@@ -45,7 +45,7 @@ alias clion='open -na "Clion.app" --args "$@"'
 alias webstorm='open -na "Webstorm.app" --args "$@"'
 alias cw='cc -Wall -Werror -Wextra'
 alias c='clion'
-alias w='webstorm'
+alias ws='webstorm'
 alias o='open'
 alias v='vim'
 gc ()
