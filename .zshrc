@@ -58,5 +58,5 @@ alias cpy='pbcopy'
 alias exam='cd ~/Desktop/exam'
 PROMPT='%F{087}(｀▽´)%f '
 alias g++='g++-11'
-
+alias docker_rm_all='docker stop $(docker ps -qa); docker rm $(docker ps -qa); docker rmi -f $(docker images -qa); docker volume rm $(docker volume ls -q); docker network rm $(docker network ls -q) 2>/dev/nulli'
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
