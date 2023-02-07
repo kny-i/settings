@@ -6,7 +6,7 @@ alias gb='git branch'
 alias gcm='git commit -m'
 alias gcl='git clone'
 alias gch='git checkout'
-alias tsxw='tsx --watch'
+alias tscw='tsx --watch'
 
 alias gd='git diff'
 alias gi='git init'
