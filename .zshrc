@@ -62,4 +62,4 @@ PROMPT='%F{087}(｀▽´)%f '
 alias g++='g++-11'
 alias docker_rm_all='docker stop $(docker ps -qa); docker rm $(docker ps -qa); docker rmi -f $(docker images -qa); docker volume rm $(docker volume ls -q); docker network rm $(docker network ls -q) 2>/dev/null'
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-alias commit_msg='cp ~/Desktop/42Tokyo/commit_msg/commit-msg ./git/hooks'
+alias commit_msg='cp ~/Desktop/42Tokyo/commit_msg/commit-msg ./.git/hooks'
