@@ -64,3 +64,5 @@ alias docker_rm_all='docker stop $(docker ps -qa); docker rm $(docker ps -qa); d
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 alias commit_msg='cp ~/Desktop/42Tokyo/commit_msg/commit-msg ./.git/hooks'
 alias ip='ifconfig | grep "inet " | grep -v 127.0.0.1 | cut -d\  -f2'
+alias c11='c++ -std=c++11'
+alias c17='c++ -std=c++17'
