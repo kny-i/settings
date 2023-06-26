@@ -67,3 +67,4 @@ alias ip='ifconfig | grep "inet " | grep -v 127.0.0.1 | cut -d\  -f2'
 alias cp11='c++ -std=c++11'
 alias cp17='c++ -std=c++17'
 export PATH="$PATH:~/development/flutter/bin"
+export flutter="~/development/flutter/bin"
