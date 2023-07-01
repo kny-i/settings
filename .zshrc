@@ -28,6 +28,7 @@ alias giv='cd ~/settings && gc "edit vimrcr" && gp'
 alias soz='source ~/settings/.zshrc && cd ~/settings && gc "edit zshrc" && gp'
 alias viv='vim ~/.vimrc'
 alias cz='clion ~/settings/.zshrc'
+alias iz='intellij ~/settings/.zshrc'
 
 alias sov='source ~/settings/.vimrc'
 alias gcue='git config user.email kny_i@keio.jp && git config user.name kny-i'
