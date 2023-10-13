@@ -48,7 +48,7 @@ alias intellij='open -na "IntelliJ IDEA.app" --args "$@"'
 alias cw='cc -Wall -Werror -Wextra'
 alias c='clion'
 alias ws='webstorm'
-alias pyc='pycharm'
+alias py='pycharm'
 alias i='intellij'
 alias o='open'
 alias v='vim'
@@ -71,3 +71,4 @@ alias cp17='c++ -std=c++17'
 export PATH="$PATH:~/development/flutter/bin"
 export flutter="~/development/flutter/bin"
 export PATH="$PATH:Users/yukikondo/development/flutter/bin"
+export PATH="/usr/local/opt/openjdk/bin:$PATH"
