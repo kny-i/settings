@@ -72,9 +72,6 @@ export PATH="$PATH:~/development/flutter/bin"
 export flutter="~/development/flutter/bin"
 export PATH="$PATH:Users/yukikondo/development/flutter/bin"
 export PATH="/usr/local/opt/openjdk/bin:$PATH"
-export pip="pip3"
-export almondo="cd /Users/yukikondo/Desktop/almondo"
-if type trash-put &> /dev/null
-then
-    alias rm=trash-put
-fi
+alias pip="pip3"
+alias almondo="cd /Users/yukikondo/Desktop/almondo"
+alias rm='trash-put'
