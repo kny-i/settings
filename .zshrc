@@ -74,6 +74,5 @@ export PATH="$PATH:Users/yukikondo/development/flutter/bin"
 export PATH="/usr/local/opt/openjdk/bin:$PATH"
 alias pip="pip3"
 alias almondo="cd /Users/yukikondo/Desktop/almondo"
-function moveToTrash() { mv $1 ~/.Trash }
-alias rm='moveToTrash'
+alias rm='trash'
 
