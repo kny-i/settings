@@ -7,7 +7,7 @@ alias gcm='git commit -m'
 alias gcl='git clone'
 alias gch='git checkout'
 alias tscw='tsc --watch'
-
+alias t='todo.sh'
 alias gd='git diff'
 alias gi='git init'
 alias gr='git remote'
