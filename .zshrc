@@ -76,3 +76,4 @@ alias pip="pip3"
 alias almondo="cd /Users/yukikondo/Desktop/almondo"
 alias rm='trash'
 
+
