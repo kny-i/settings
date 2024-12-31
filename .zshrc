@@ -77,3 +77,9 @@ alias almondo="cd /Users/yukikondo/Desktop/almondo"
 alias rm='trash'
 
 
+export PATH="/usr/local/opt/ruby/bin:$PATH"
+export PATH="$(brew --prefix ruby)/bin:$PATH"
+export PATH="/opt/homebrew/lib/ruby/gems/3.4.0/bin:$PATH"
+
+export PATH="$PATH":"$HOME/.pub-cache/bin"
+
