@@ -82,4 +82,4 @@ export PATH="$(brew --prefix ruby)/bin:$PATH"
 export PATH="/opt/homebrew/lib/ruby/gems/3.4.0/bin:$PATH"
 
 export PATH="$PATH":"$HOME/.pub-cache/bin"
-
+export snipe='cd /Users/yukikondo/Desktop/stormstory/dev/snipe/snipe'
