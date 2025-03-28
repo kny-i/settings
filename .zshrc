@@ -83,3 +83,4 @@ export PATH="/opt/homebrew/lib/ruby/gems/3.4.0/bin:$PATH"
 
 export PATH="$PATH":"$HOME/.pub-cache/bin"
 alias snipe='cd /Users/yukikondo/Desktop/stormstory/dev/snipe/snipe'
+export PATH="/opt/homebrew/Caskroom/flutter/3.10.5/flutter/bin:$PATH"
