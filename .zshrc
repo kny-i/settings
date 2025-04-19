@@ -88,3 +88,4 @@ export PATH="/opt/homebrew/opt/llvm/bin:$PATH"
 alias pyenv='python3 -m venv venv'
 alias sopy='source venv/bin/activate'
 
+export PATH="/opt/homebrew/bin:$PATH"
