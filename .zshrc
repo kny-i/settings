@@ -69,6 +69,7 @@ alias ip='ifconfig | grep "inet " | grep -v 127.0.0.1 | cut -d\  -f2'
 alias cp11='c++ -std=c++11'
 alias cp17='c++ -std=c++17'
 export PATH="$PATH:~/development/flutter/bin"
+export ANDROID_HOME="/opt/homebrew/share/android-commandlinetools"
 export flutter="~/development/flutter/bin"
 export PATH="$PATH:Users/yukikondo/development/flutter/bin"
 export PATH="/usr/local/opt/openjdk/bin:$PATH"
