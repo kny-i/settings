@@ -90,3 +90,5 @@ alias pyenv='python3 -m venv venv'
 alias sopy='source venv/bin/activate'
 
 export PATH="/opt/homebrew/bin:$PATH"
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+alias claude-dang="claude --dangerously-skip-permissions"
